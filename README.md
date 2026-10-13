@@ -5,12 +5,14 @@ channels or content are included.
 
 ## Install
 
-1. On the TV, install **Downloader** (by AFTVnews) from the Play Store.
-2. Allow it to install apps: Settings › Apps › Security & restrictions › Unknown sources › Downloader (on some TVs:
-   Settings › Device Preferences › Security & restrictions).
-3. Open Downloader, enter the code **(coming soon)** and install.
+SlopTV isn't on the Play Store. You install it with **Downloader**, a free app that is.
 
-To update, do the same again: it installs the newest version and keeps your settings.
+1. On the TV, open the **Google Play Store**, search for **Downloader** (by AFTVnews) and install it.
+2. Allow Downloader to install apps: Settings › Apps › Security & restrictions › Unknown sources › Downloader (on
+   some TVs: Settings › Device Preferences › Security & restrictions).
+3. Open Downloader, enter the code **8937318** and install SlopTV when it asks.
+
+To update, open Downloader and enter the same code again: it installs the newest version and keeps your settings.
 
 Without Downloader: download `sloptv.apk` from [the latest release](https://github.com/LevPin/sloptv-releases/releases/latest)
 and open it on the TV with a file manager.
